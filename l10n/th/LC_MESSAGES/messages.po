@@ -1556,7 +1556,9 @@ msgstr "ไม่สามารถเข้าถึงกล้องได้
 
 #: src/seedsigner/views/view.py
 msgid "Disconnect power and check for a loose camera connection."
-msgstr "ปิดเครื่องแล้วตรวจสอบสายกล้องหลวมหรือไม่"
+msgstr ""
+"ปิดเครื่องแล้วตรวจสอบ\n"
+"สายกล้องหลวมหรือไม่"
 
 #: src/seedsigner/views/view.py
 msgid "Update setting"
